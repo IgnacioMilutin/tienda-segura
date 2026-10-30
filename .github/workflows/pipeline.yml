@@ -1,4 +1,4 @@
-me: pipeline
+name: pipeline
 on: [pull_request]
 jobs:
    verificar:
